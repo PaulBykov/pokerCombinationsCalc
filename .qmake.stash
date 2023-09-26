@@ -1,0 +1,63 @@
+QMAKE_CXX.QT_COMPILER_STDCXX = 199711L
+QMAKE_CXX.QMAKE_MSC_VER = 1934
+QMAKE_CXX.QMAKE_MSC_FULL_VER = 193431937
+QMAKE_CXX.COMPILER_MACROS = \
+    QT_COMPILER_STDCXX \
+    QMAKE_MSC_VER \
+    QMAKE_MSC_FULL_VER
+QMAKE_CXX.INCDIRS = \
+    "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.34.31933/include" \
+    "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.34.31933/ATLMFC/include" \
+    "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Auxiliary/VS/include" \
+    "C:/Program Files (x86)/Windows Kits/10/include/10.0.19041.0/ucrt" \
+    "C:/Program Files (x86)/Windows Kits/10/include/10.0.19041.0/um" \
+    "C:/Program Files (x86)/Windows Kits/10/include/10.0.19041.0/shared" \
+    "C:/Program Files (x86)/Windows Kits/10/include/10.0.19041.0/winrt" \
+    "C:/Program Files (x86)/Windows Kits/10/include/10.0.19041.0/cppwinrt" \
+    "C:/Program Files (x86)/Windows Kits/NETFXSDK/4.8/include/um"
+QMAKE_CXX.LIBDIRS = \
+    "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.34.31933/lib/x86/store" \
+    "C:/Program Files (x86)/Windows Kits/NETFXSDK/4.8/lib/um/x86" \
+    "C:/Program Files (x86)/Windows Kits/10/lib/10.0.19041.0/ucrt/x86" \
+    "C:/Program Files (x86)/Windows Kits/10/lib/10.0.19041.0/um/x86"
+QMAKE_CXX.PATH = \
+    "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.34.31933/bin/HostX86/x86" \
+    "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/VC/VCPackages" \
+    "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/TestWindow" \
+    "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/TeamFoundation/Team Explorer" \
+    "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/bin/Roslyn" \
+    "C:/Program Files/Microsoft Visual Studio/2022/Community/Team Tools/Performance Tools" \
+    "C:/Program Files (x86)/Microsoft SDKs/Windows/v10.0A/bin/NETFX 4.8 Tools" \
+    "C:/Program Files (x86)/Windows Kits/10/bin/10.0.19041.0/x86" \
+    "C:/Program Files (x86)/Windows Kits/10/bin/x86" \
+    "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64" \
+    C:/Windows/Microsoft.NET/Framework/v4.0.30319 \
+    "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE" \
+    "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/Tools" \
+    "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.34.31933/bin/HostX64/x86" \
+    "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.34.31933/bin/HostX64/x64" \
+    "C:/Program Files (x86)/Microsoft SDKs/Windows/v10.0A/bin/NETFX 4.8 Tools/x64" \
+    "C:/Program Files (x86)/Windows Kits/10/bin/10.0.19041.0/x64" \
+    "C:/Program Files (x86)/Windows Kits/10/bin/x64" \
+    C:/Windows/Microsoft.NET/Framework64/v4.0.30319 \
+    C:/Ruby31-x64/bin \
+    C:/Windows/system32 \
+    C:/Windows \
+    C:/Windows/System32/Wbem \
+    C:/Windows/System32/WindowsPowerShell/v1.0 \
+    "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common" \
+    "C:/Program Files/NVIDIA Corporation/NVIDIA NvDLISR" \
+    "C:/Program Files/Git/cmd" \
+    "C:/Program Files/CMake/bin" \
+    C:/Strawberry/c/bin \
+    C:/Strawberry/perl/site/bin \
+    C:/Strawberry/perl/bin \
+    C:/Users/Wayne/AppData/Local/Programs/Python/Python311/Scripts \
+    C:/Users/Wayne/AppData/Local/Programs/Python/Python311 \
+    "C:/Program Files/MySQL/MySQL Shell 8.0/bin" \
+    C:/Users/Wayne/AppData/Local/Microsoft/WindowsApps \
+    "C:/Program Files/JetBrains/PyCharm 2022.1/bin" \
+    "C:/Users/Wayne/AppData/Local/Programs/Microsoft VS Code/bin" \
+    "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/bin" \
+    "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja" \
+    "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/VC/Linux/bin/ConnectionManagerExe"
